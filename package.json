@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "buy-m3",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/kemaldemirgil/buy-m3"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Kemal Demirgil",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
